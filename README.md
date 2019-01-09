@@ -1,13 +1,9 @@
-AngularJS1 Module Demo
-======================
+AngularJS1 Bootstrap Angular Demo
+=================================
 
-`module`可以用来分组，把多个相关的factory/service/controller/directive等等放在一个命名空间下。
-
-一个module还可以依赖其它的module，被依赖的module中定义的东西将自动可用。
+How to use `angular.bootstrap` to boot angular.
 
 ```
 npm install
-open index.html
+npm run demo
 ```
-
-![demo](./images/demo.jpg)
