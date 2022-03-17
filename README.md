@@ -5,5 +5,5 @@ How to use `angular.bootstrap` to boot angular.
 
 ```
 npm install
-npm run demo
+npm start
 ```
